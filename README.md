@@ -4,7 +4,7 @@
 Human skeletal recognition is a pivotal aspect of computer vision, with applications ranging from sports analytics to healthcare. OpenPose, developed by the Carnegie Mellon Perceptual Computing Lab, is a leading open-source tool that enables real-time multi-person keypoint detection for body, face, hands, and feet. This article provides an overview of the 2D human skeletal recognition algorithm in OpenPose, based on a review of the relevant literature and hands-on experimentation.
 
 ### Objective
-The goal of this task is to explain the working of the 2D human skeletal recognition algorithm in OpenPose, reflecting my understanding gained from reading relevant papers.
+The goal of this task is to explain the working of the 2D human skeletal recognition algorithm in OpenPose, reflecting my understanding gained from reading relevant papers：https://arxiv.org/pdf/1611.08050.
 
 ### Overview of the 2D Human Skeletal Recognition Algorithm
 OpenPose utilizes a bottom-up approach for detecting multiple keypoints across the human body. The algorithm consists of several stages, each contributing to the accurate detection and mapping of human body joints in 2D space.
